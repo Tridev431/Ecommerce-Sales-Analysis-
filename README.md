@@ -66,4 +66,4 @@ The goal of this interactive dashboard project is to transform raw, fragmented t
 
 1. **Clone this repository** to your local environment:
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+   git clone [https://github.com/Tridev431/Ecommerce-Sales-Analysis-]
